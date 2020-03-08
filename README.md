@@ -23,3 +23,5 @@ Use of Google Analytics for targeting highly probable geographical areas
 Improving relationships with the Donors
 Fixed minimum amount of donations
 More awareness of what HHUSA  does- better marketing for better reach
+
+![Image description](link-to-image)
